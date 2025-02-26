@@ -1,0 +1,21 @@
+{
+  "data": {
+    "verified": false,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1888941332389068800/zDL30fow_normal.jpg",
+    "protected": false,
+    "username": "irwndfrry",
+    "pinned_tweet_id": "1874839670984753388",
+    "name": "Ferry Irwandi",
+    "id": "251088685",
+    "created_at": "2011-02-12T12:18:46.000Z",
+    "public_metrics": {
+      "followers_count": 208273,
+      "following_count": 1053,
+      "tweet_count": 33933,
+      "listed_count": 78,
+      "like_count": 2027,
+      "media_count": 1463
+    },
+    "description": ""
+  }
+}
