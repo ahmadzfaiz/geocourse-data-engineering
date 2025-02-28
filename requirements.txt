@@ -1,5 +1,6 @@
 appnope==0.1.4
 asttokens==3.0.0
+beautifulsoup4==4.13.3
 certifi==2025.1.31
 charset-normalizer==3.4.1
 comm==0.2.2
@@ -29,8 +30,10 @@ python-dotenv==1.0.1
 pyzmq==26.2.1
 requests==2.32.3
 six==1.17.0
+soupsieve==2.6
 stack-data==0.6.3
 tornado==6.4.2
 traitlets==5.14.3
+typing_extensions==4.12.2
 urllib3==2.3.0
 wcwidth==0.2.13

@@ -1,0 +1,464 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+	
+    
+	<Document>
+		
+        
+		<Schema name="candi_di_jawa_tengah_330020220822074546_1" id="candi_di_jawa_tengah_330020220822074546_1">
+			
+            
+			<SimpleField type="string" name="objectid"/>
+			
+            
+			<SimpleField type="int" name="fgsprp"/>
+			
+            
+			<SimpleField type="string" name="metadata"/>
+			
+            
+			<SimpleField type="string" name="fcode"/>
+			
+            
+			<SimpleField type="string" name="namaobj"/>
+			
+            
+			<SimpleField type="int" name="srs_id"/>
+			
+            
+			<SimpleField type="string" name="remark"/>
+			
+            
+			<SimpleField type="string" name="wadmpr"/>
+			
+            
+			<SimpleField type="string" name="alamat"/>
+			
+            
+			<SimpleField type="string" name="laman"/>
+			
+        
+		</Schema>
+		
+        
+		<Folder>
+			
+            
+			<name>candi_di_jawa_tengah_330020220822074546</name>
+			
+            
+			<Placemark id="candi_di_jawa_tengah_330020220822074546.1">
+				
+                
+				<ExtendedData>
+					
+                    
+					<SchemaData schemaUrl="#candi_di_jawa_tengah_330020220822074546_1">
+						
+                        
+						<SimpleData name="objectid">3155</SimpleData>
+						
+                        
+						<SimpleData name="fgsprp">999</SimpleData>
+						
+                        
+						<SimpleData name="fcode">GF01030020</SimpleData>
+						
+                        
+						<SimpleData name="namaobj">CANDI PRAMBANAN</SimpleData>
+						
+                        
+						<SimpleData name="remark">CANDI</SimpleData>
+						
+                        
+						<SimpleData name="wadmpr">JAWA TENGAH</SimpleData>
+						
+                        
+						<SimpleData name="alamat">JL. RAYA SOLO - YOGYAKARTA NO. 16 PRAMBANAN</SimpleData>
+						
+                        
+						<SimpleData name="laman">https://gis.dukcapil.kemendagri.go.id/</SimpleData>
+						
+                    
+					</SchemaData>
+					
+                
+				</ExtendedData>
+				
+                
+				<Point>
+					
+                    
+					<coordinates>110.49583000017857,-7.754360000102301</coordinates>
+					
+                
+				</Point>
+				
+            
+			</Placemark>
+			
+            
+			<Placemark id="candi_di_jawa_tengah_330020220822074546.2">
+				
+                
+				<ExtendedData>
+					
+                    
+					<SchemaData schemaUrl="#candi_di_jawa_tengah_330020220822074546_1">
+						
+                        
+						<SimpleData name="objectid">859</SimpleData>
+						
+                        
+						<SimpleData name="fgsprp">999</SimpleData>
+						
+                        
+						<SimpleData name="fcode">GF01030020</SimpleData>
+						
+                        
+						<SimpleData name="namaobj">CANDI BOROBUDUR</SimpleData>
+						
+                        
+						<SimpleData name="remark">CANDI</SimpleData>
+						
+                        
+						<SimpleData name="wadmpr">JAWA TENGAH</SimpleData>
+						
+                        
+						<SimpleData name="alamat">JL. BADRAWATI, KW CANDI BOROBUDUR</SimpleData>
+						
+                        
+						<SimpleData name="laman">https://gis.dukcapil.kemendagri.go.id/</SimpleData>
+						
+                    
+					</SchemaData>
+					
+                
+				</ExtendedData>
+				
+                
+				<Point>
+					
+                    
+					<coordinates>110.20382149375416,-7.6079604514017465</coordinates>
+					
+                
+				</Point>
+				
+            
+			</Placemark>
+			
+            
+			<Placemark id="candi_di_jawa_tengah_330020220822074546.3">
+				
+                
+				<ExtendedData>
+					
+                    
+					<SchemaData schemaUrl="#candi_di_jawa_tengah_330020220822074546_1">
+						
+                        
+						<SimpleData name="objectid">7605</SimpleData>
+						
+                        
+						<SimpleData name="fgsprp">999</SimpleData>
+						
+                        
+						<SimpleData name="fcode">GF01030020</SimpleData>
+						
+                        
+						<SimpleData name="namaobj">CANDI MENDUT</SimpleData>
+						
+                        
+						<SimpleData name="remark">CANDI</SimpleData>
+						
+                        
+						<SimpleData name="wadmpr">JAWA TENGAH</SimpleData>
+						
+                        
+						<SimpleData name="alamat">JL. MAYOR KUSEN, MUNGKID</SimpleData>
+						
+                        
+						<SimpleData name="laman">https://gis.dukcapil.kemendagri.go.id/</SimpleData>
+						
+                    
+					</SchemaData>
+					
+                
+				</ExtendedData>
+				
+                
+				<Point>
+					
+                    
+					<coordinates>110.23011829694066,-7.604821177033366</coordinates>
+					
+                
+				</Point>
+				
+            
+			</Placemark>
+			
+            
+			<Placemark id="candi_di_jawa_tengah_330020220822074546.4">
+				
+                
+				<ExtendedData>
+					
+                    
+					<SchemaData schemaUrl="#candi_di_jawa_tengah_330020220822074546_1">
+						
+                        
+						<SimpleData name="objectid">7606</SimpleData>
+						
+                        
+						<SimpleData name="fgsprp">999</SimpleData>
+						
+                        
+						<SimpleData name="fcode">GF01030020</SimpleData>
+						
+                        
+						<SimpleData name="namaobj">CANDI GEDONG SONGO</SimpleData>
+						
+                        
+						<SimpleData name="remark">CANDI</SimpleData>
+						
+                        
+						<SimpleData name="wadmpr">JAWA TENGAH</SimpleData>
+						
+                        
+						<SimpleData name="alamat">JALAN KE CANDI GEDONG SONGO, BANDUNGAN</SimpleData>
+						
+                        
+						<SimpleData name="laman">https://gis.dukcapil.kemendagri.go.id/</SimpleData>
+						
+                    
+					</SchemaData>
+					
+                
+				</ExtendedData>
+				
+                
+				<Point>
+					
+                    
+					<coordinates>110.34181842777056,-7.2081266179690555</coordinates>
+					
+                
+				</Point>
+				
+            
+			</Placemark>
+			
+            
+			<Placemark id="candi_di_jawa_tengah_330020220822074546.5">
+				
+                
+				<ExtendedData>
+					
+                    
+					<SchemaData schemaUrl="#candi_di_jawa_tengah_330020220822074546_1">
+						
+                        
+						<SimpleData name="objectid">7607</SimpleData>
+						
+                        
+						<SimpleData name="fgsprp">999</SimpleData>
+						
+                        
+						<SimpleData name="fcode">GF01030020</SimpleData>
+						
+                        
+						<SimpleData name="namaobj">CANDI PAWON</SimpleData>
+						
+                        
+						<SimpleData name="remark">CANDI</SimpleData>
+						
+                        
+						<SimpleData name="wadmpr">JAWA TENGAH</SimpleData>
+						
+                        
+						<SimpleData name="alamat">BROJONALAN, BOROBUDUR</SimpleData>
+						
+                        
+						<SimpleData name="laman">https://gis.dukcapil.kemendagri.go.id/</SimpleData>
+						
+                    
+					</SchemaData>
+					
+                
+				</ExtendedData>
+				
+                
+				<Point>
+					
+                    
+					<coordinates>110.21955811204339,-7.606127487591463</coordinates>
+					
+                
+				</Point>
+				
+            
+			</Placemark>
+			
+            
+			<Placemark id="candi_di_jawa_tengah_330020220822074546.6">
+				
+                
+				<ExtendedData>
+					
+                    
+					<SchemaData schemaUrl="#candi_di_jawa_tengah_330020220822074546_1">
+						
+                        
+						<SimpleData name="objectid">7608</SimpleData>
+						
+                        
+						<SimpleData name="fgsprp">999</SimpleData>
+						
+                        
+						<SimpleData name="fcode">GF01030020</SimpleData>
+						
+                        
+						<SimpleData name="namaobj">CANDI SOJIWAN</SimpleData>
+						
+                        
+						<SimpleData name="remark">CANDI</SimpleData>
+						
+                        
+						<SimpleData name="wadmpr">JAWA TENGAH</SimpleData>
+						
+                        
+						<SimpleData name="alamat">KEBON DALEM KIDUL, PRAMBANAN</SimpleData>
+						
+                        
+						<SimpleData name="laman">https://gis.dukcapil.kemendagri.go.id/</SimpleData>
+						
+                    
+					</SchemaData>
+					
+                
+				</ExtendedData>
+				
+                
+				<Point>
+					
+                    
+					<coordinates>110.49603260147603,-7.76104566382751</coordinates>
+					
+                
+				</Point>
+				
+            
+			</Placemark>
+			
+            
+			<Placemark id="candi_di_jawa_tengah_330020220822074546.7">
+				
+                
+				<ExtendedData>
+					
+                    
+					<SchemaData schemaUrl="#candi_di_jawa_tengah_330020220822074546_1">
+						
+                        
+						<SimpleData name="objectid">7609</SimpleData>
+						
+                        
+						<SimpleData name="fgsprp">999</SimpleData>
+						
+                        
+						<SimpleData name="fcode">GF01030020</SimpleData>
+						
+                        
+						<SimpleData name="namaobj">CANDI PLAOSAN</SimpleData>
+						
+                        
+						<SimpleData name="remark">CANDI</SimpleData>
+						
+                        
+						<SimpleData name="wadmpr">JAWA TENGAH</SimpleData>
+						
+                        
+						<SimpleData name="alamat">JL. CANDI PLAOSAN, PRAMBANAN</SimpleData>
+						
+                        
+						<SimpleData name="laman">https://gis.dukcapil.kemendagri.go.id/</SimpleData>
+						
+                    
+					</SchemaData>
+					
+                
+				</ExtendedData>
+				
+                
+				<Point>
+					
+                    
+					<coordinates>110.50464613604957,-7.740552400532832</coordinates>
+					
+                
+				</Point>
+				
+            
+			</Placemark>
+			
+            
+			<Placemark id="candi_di_jawa_tengah_330020220822074546.8">
+				
+                
+				<ExtendedData>
+					
+                    
+					<SchemaData schemaUrl="#candi_di_jawa_tengah_330020220822074546_1">
+						
+                        
+						<SimpleData name="objectid">7610</SimpleData>
+						
+                        
+						<SimpleData name="fgsprp">999</SimpleData>
+						
+                        
+						<SimpleData name="fcode">GF01030020</SimpleData>
+						
+                        
+						<SimpleData name="namaobj">CANDI ARJUNA</SimpleData>
+						
+                        
+						<SimpleData name="remark">CANDI</SimpleData>
+						
+                        
+						<SimpleData name="wadmpr">JAWA TENGAH</SimpleData>
+						
+                        
+						<SimpleData name="alamat">DIENG KULON, BATUR</SimpleData>
+						
+                        
+						<SimpleData name="laman">https://gis.dukcapil.kemendagri.go.id/</SimpleData>
+						
+                    
+					</SchemaData>
+					
+                
+				</ExtendedData>
+				
+                
+				<Point>
+					
+                    
+					<coordinates>109.90692414097154,-7.205043803252967</coordinates>
+					
+                
+				</Point>
+				
+            
+			</Placemark>
+			
+        
+		</Folder>
+		
+    
+	</Document>
+	
+
+</kml>

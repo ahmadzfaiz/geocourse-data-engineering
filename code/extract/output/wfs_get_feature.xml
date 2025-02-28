@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<wfs:FeatureCollection xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:wfs="http://www.opengis.net/wfs/2.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ADMIN="ADMIN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" numberMatched="8" numberReturned="8" timeStamp="2025-02-28T15:49:41.377Z" xsi:schemaLocation="http://www.opengis.net/wfs/2.0 http://geoportal.jatengprov.go.id/geoserver/schemas/wfs/2.0/wfs.xsd ADMIN http://geoportal.jatengprov.go.id/geoserver/wfs?service=WFS&amp;version=2.0.0&amp;request=DescribeFeatureType&amp;typeName=ADMIN%3Acandi_di_jawa_tengah_330020220822074546 http://www.opengis.net/gml/3.2 http://geoportal.jatengprov.go.id/geoserver/schemas/gml/3.2.1/gml.xsd">
+	<wfs:member>
+		<ADMIN:candi_di_jawa_tengah_330020220822074546 gml:id="candi_di_jawa_tengah_330020220822074546.1">
+			<ADMIN:wkb_geometry>
+				<gml:Point srsName="urn:ogc:def:crs:EPSG::3857" srsDimension="2">
+					<gml:pos>1.23003395304E7 -865858.7321</gml:pos>
+				</gml:Point>
+			</ADMIN:wkb_geometry>
+			<ADMIN:objectid>3155</ADMIN:objectid>
+			<ADMIN:fgsprp>999</ADMIN:fgsprp>
+			<ADMIN:fcode>GF01030020</ADMIN:fcode>
+			<ADMIN:namaobj>CANDI PRAMBANAN</ADMIN:namaobj>
+			<ADMIN:remark>CANDI</ADMIN:remark>
+			<ADMIN:wadmpr>JAWA TENGAH</ADMIN:wadmpr>
+			<ADMIN:alamat>JL. RAYA SOLO - YOGYAKARTA NO. 16 PRAMBANAN</ADMIN:alamat>
+			<ADMIN:laman>https://gis.dukcapil.kemendagri.go.id/</ADMIN:laman>
+		</ADMIN:candi_di_jawa_tengah_330020220822074546>
+	</wfs:member>
+	<wfs:member>
+		<ADMIN:candi_di_jawa_tengah_330020220822074546 gml:id="candi_di_jawa_tengah_330020220822074546.2">
+			<ADMIN:wkb_geometry>
+				<gml:Point srsName="urn:ogc:def:crs:EPSG::3857" srsDimension="2">
+					<gml:pos>1.2267833292158E7 -849414.049492</gml:pos>
+				</gml:Point>
+			</ADMIN:wkb_geometry>
+			<ADMIN:objectid>859</ADMIN:objectid>
+			<ADMIN:fgsprp>999</ADMIN:fgsprp>
+			<ADMIN:fcode>GF01030020</ADMIN:fcode>
+			<ADMIN:namaobj>CANDI BOROBUDUR</ADMIN:namaobj>
+			<ADMIN:remark>CANDI</ADMIN:remark>
+			<ADMIN:wadmpr>JAWA TENGAH</ADMIN:wadmpr>
+			<ADMIN:alamat>JL. BADRAWATI, KW CANDI BOROBUDUR</ADMIN:alamat>
+			<ADMIN:laman>https://gis.dukcapil.kemendagri.go.id/</ADMIN:laman>
+		</ADMIN:candi_di_jawa_tengah_330020220822074546>
+	</wfs:member>
+	<wfs:member>
+		<ADMIN:candi_di_jawa_tengah_330020220822074546 gml:id="candi_di_jawa_tengah_330020220822074546.3">
+			<ADMIN:wkb_geometry>
+				<gml:Point srsName="urn:ogc:def:crs:EPSG::3857" srsDimension="2">
+					<gml:pos>1.2270760638898E7 -849061.484774</gml:pos>
+				</gml:Point>
+			</ADMIN:wkb_geometry>
+			<ADMIN:objectid>7605</ADMIN:objectid>
+			<ADMIN:fgsprp>999</ADMIN:fgsprp>
+			<ADMIN:fcode>GF01030020</ADMIN:fcode>
+			<ADMIN:namaobj>CANDI MENDUT</ADMIN:namaobj>
+			<ADMIN:remark>CANDI</ADMIN:remark>
+			<ADMIN:wadmpr>JAWA TENGAH</ADMIN:wadmpr>
+			<ADMIN:alamat>JL. MAYOR KUSEN, MUNGKID</ADMIN:alamat>
+			<ADMIN:laman>https://gis.dukcapil.kemendagri.go.id/</ADMIN:laman>
+		</ADMIN:candi_di_jawa_tengah_330020220822074546>
+	</wfs:member>
+	<wfs:member>
+		<ADMIN:candi_di_jawa_tengah_330020220822074546 gml:id="candi_di_jawa_tengah_330020220822074546.4">
+			<ADMIN:wkb_geometry>
+				<gml:Point srsName="urn:ogc:def:crs:EPSG::3857" srsDimension="2">
+					<gml:pos>1.2283195040583E7 -804530.013546</gml:pos>
+				</gml:Point>
+			</ADMIN:wkb_geometry>
+			<ADMIN:objectid>7606</ADMIN:objectid>
+			<ADMIN:fgsprp>999</ADMIN:fgsprp>
+			<ADMIN:fcode>GF01030020</ADMIN:fcode>
+			<ADMIN:namaobj>CANDI GEDONG SONGO</ADMIN:namaobj>
+			<ADMIN:remark>CANDI</ADMIN:remark>
+			<ADMIN:wadmpr>JAWA TENGAH</ADMIN:wadmpr>
+			<ADMIN:alamat>JALAN KE CANDI GEDONG SONGO, BANDUNGAN</ADMIN:alamat>
+			<ADMIN:laman>https://gis.dukcapil.kemendagri.go.id/</ADMIN:laman>
+		</ADMIN:candi_di_jawa_tengah_330020220822074546>
+	</wfs:member>
+	<wfs:member>
+		<ADMIN:candi_di_jawa_tengah_330020220822074546 gml:id="candi_di_jawa_tengah_330020220822074546.5">
+			<ADMIN:wkb_geometry>
+				<gml:Point srsName="urn:ogc:def:crs:EPSG::3857" srsDimension="2">
+					<gml:pos>1.2269585084492E7 -849208.193209</gml:pos>
+				</gml:Point>
+			</ADMIN:wkb_geometry>
+			<ADMIN:objectid>7607</ADMIN:objectid>
+			<ADMIN:fgsprp>999</ADMIN:fgsprp>
+			<ADMIN:fcode>GF01030020</ADMIN:fcode>
+			<ADMIN:namaobj>CANDI PAWON</ADMIN:namaobj>
+			<ADMIN:remark>CANDI</ADMIN:remark>
+			<ADMIN:wadmpr>JAWA TENGAH</ADMIN:wadmpr>
+			<ADMIN:alamat>BROJONALAN, BOROBUDUR</ADMIN:alamat>
+			<ADMIN:laman>https://gis.dukcapil.kemendagri.go.id/</ADMIN:laman>
+		</ADMIN:candi_di_jawa_tengah_330020220822074546>
+	</wfs:member>
+	<wfs:member>
+		<ADMIN:candi_di_jawa_tengah_330020220822074546 gml:id="candi_di_jawa_tengah_330020220822074546.6">
+			<ADMIN:wkb_geometry>
+				<gml:Point srsName="urn:ogc:def:crs:EPSG::3857" srsDimension="2">
+					<gml:pos>1.2300362083873E7 -866609.851205</gml:pos>
+				</gml:Point>
+			</ADMIN:wkb_geometry>
+			<ADMIN:objectid>7608</ADMIN:objectid>
+			<ADMIN:fgsprp>999</ADMIN:fgsprp>
+			<ADMIN:fcode>GF01030020</ADMIN:fcode>
+			<ADMIN:namaobj>CANDI SOJIWAN</ADMIN:namaobj>
+			<ADMIN:remark>CANDI</ADMIN:remark>
+			<ADMIN:wadmpr>JAWA TENGAH</ADMIN:wadmpr>
+			<ADMIN:alamat>KEBON DALEM KIDUL, PRAMBANAN</ADMIN:alamat>
+			<ADMIN:laman>https://gis.dukcapil.kemendagri.go.id/</ADMIN:laman>
+		</ADMIN:candi_di_jawa_tengah_330020220822074546>
+	</wfs:member>
+	<wfs:member>
+		<ADMIN:candi_di_jawa_tengah_330020220822074546 gml:id="candi_di_jawa_tengah_330020220822074546.7">
+			<ADMIN:wkb_geometry>
+				<gml:Point srsName="urn:ogc:def:crs:EPSG::3857" srsDimension="2">
+					<gml:pos>1.2301320938156E7 -864307.517475</gml:pos>
+				</gml:Point>
+			</ADMIN:wkb_geometry>
+			<ADMIN:objectid>7609</ADMIN:objectid>
+			<ADMIN:fgsprp>999</ADMIN:fgsprp>
+			<ADMIN:fcode>GF01030020</ADMIN:fcode>
+			<ADMIN:namaobj>CANDI PLAOSAN</ADMIN:namaobj>
+			<ADMIN:remark>CANDI</ADMIN:remark>
+			<ADMIN:wadmpr>JAWA TENGAH</ADMIN:wadmpr>
+			<ADMIN:alamat>JL. CANDI PLAOSAN, PRAMBANAN</ADMIN:alamat>
+			<ADMIN:laman>https://gis.dukcapil.kemendagri.go.id/</ADMIN:laman>
+		</ADMIN:candi_di_jawa_tengah_330020220822074546>
+	</wfs:member>
+	<wfs:member>
+		<ADMIN:candi_di_jawa_tengah_330020220822074546 gml:id="candi_di_jawa_tengah_330020220822074546.8">
+			<ADMIN:wkb_geometry>
+				<gml:Point srsName="urn:ogc:def:crs:EPSG::3857" srsDimension="2">
+					<gml:pos>1.2234782830028E7 -804184.103593</gml:pos>
+				</gml:Point>
+			</ADMIN:wkb_geometry>
+			<ADMIN:objectid>7610</ADMIN:objectid>
+			<ADMIN:fgsprp>999</ADMIN:fgsprp>
+			<ADMIN:fcode>GF01030020</ADMIN:fcode>
+			<ADMIN:namaobj>CANDI ARJUNA</ADMIN:namaobj>
+			<ADMIN:remark>CANDI</ADMIN:remark>
+			<ADMIN:wadmpr>JAWA TENGAH</ADMIN:wadmpr>
+			<ADMIN:alamat>DIENG KULON, BATUR</ADMIN:alamat>
+			<ADMIN:laman>https://gis.dukcapil.kemendagri.go.id/</ADMIN:laman>
+		</ADMIN:candi_di_jawa_tengah_330020220822074546>
+	</wfs:member>
+</wfs:FeatureCollection>

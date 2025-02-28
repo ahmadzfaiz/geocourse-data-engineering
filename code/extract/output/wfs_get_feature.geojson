@@ -1,0 +1,204 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 8,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "candi_di_jawa_tengah_330020220822074546.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12300339.5304,
+          -865858.7321
+        ]
+      },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "objectid": "3155",
+        "fgsprp": 999,
+        "metadata": null,
+        "fcode": "GF01030020",
+        "namaobj": "CANDI PRAMBANAN",
+        "srs_id": null,
+        "remark": "CANDI",
+        "wadmpr": "JAWA TENGAH",
+        "alamat": "JL. RAYA SOLO - YOGYAKARTA NO. 16 PRAMBANAN",
+        "laman": "https://gis.dukcapil.kemendagri.go.id/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "candi_di_jawa_tengah_330020220822074546.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12267833.29215753,
+          -849414.04949212
+        ]
+      },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "objectid": "859",
+        "fgsprp": 999,
+        "metadata": null,
+        "fcode": "GF01030020",
+        "namaobj": "CANDI BOROBUDUR",
+        "srs_id": null,
+        "remark": "CANDI",
+        "wadmpr": "JAWA TENGAH",
+        "alamat": "JL. BADRAWATI, KW CANDI BOROBUDUR",
+        "laman": "https://gis.dukcapil.kemendagri.go.id/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "candi_di_jawa_tengah_330020220822074546.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12270760.63889774,
+          -849061.48477416
+        ]
+      },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "objectid": "7605",
+        "fgsprp": 999,
+        "metadata": null,
+        "fcode": "GF01030020",
+        "namaobj": "CANDI MENDUT",
+        "srs_id": null,
+        "remark": "CANDI",
+        "wadmpr": "JAWA TENGAH",
+        "alamat": "JL. MAYOR KUSEN, MUNGKID",
+        "laman": "https://gis.dukcapil.kemendagri.go.id/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "candi_di_jawa_tengah_330020220822074546.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12283195.04058327,
+          -804530.01354577
+        ]
+      },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "objectid": "7606",
+        "fgsprp": 999,
+        "metadata": null,
+        "fcode": "GF01030020",
+        "namaobj": "CANDI GEDONG SONGO",
+        "srs_id": null,
+        "remark": "CANDI",
+        "wadmpr": "JAWA TENGAH",
+        "alamat": "JALAN KE CANDI GEDONG SONGO, BANDUNGAN",
+        "laman": "https://gis.dukcapil.kemendagri.go.id/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "candi_di_jawa_tengah_330020220822074546.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12269585.0844923,
+          -849208.19320918
+        ]
+      },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "objectid": "7607",
+        "fgsprp": 999,
+        "metadata": null,
+        "fcode": "GF01030020",
+        "namaobj": "CANDI PAWON",
+        "srs_id": null,
+        "remark": "CANDI",
+        "wadmpr": "JAWA TENGAH",
+        "alamat": "BROJONALAN, BOROBUDUR",
+        "laman": "https://gis.dukcapil.kemendagri.go.id/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "candi_di_jawa_tengah_330020220822074546.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12300362.08387327,
+          -866609.85120493
+        ]
+      },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "objectid": "7608",
+        "fgsprp": 999,
+        "metadata": null,
+        "fcode": "GF01030020",
+        "namaobj": "CANDI SOJIWAN",
+        "srs_id": null,
+        "remark": "CANDI",
+        "wadmpr": "JAWA TENGAH",
+        "alamat": "KEBON DALEM KIDUL, PRAMBANAN",
+        "laman": "https://gis.dukcapil.kemendagri.go.id/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "candi_di_jawa_tengah_330020220822074546.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12301320.93815593,
+          -864307.51747515
+        ]
+      },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "objectid": "7609",
+        "fgsprp": 999,
+        "metadata": null,
+        "fcode": "GF01030020",
+        "namaobj": "CANDI PLAOSAN",
+        "srs_id": null,
+        "remark": "CANDI",
+        "wadmpr": "JAWA TENGAH",
+        "alamat": "JL. CANDI PLAOSAN, PRAMBANAN",
+        "laman": "https://gis.dukcapil.kemendagri.go.id/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "candi_di_jawa_tengah_330020220822074546.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12234782.8300279,
+          -804184.10359293
+        ]
+      },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "objectid": "7610",
+        "fgsprp": 999,
+        "metadata": null,
+        "fcode": "GF01030020",
+        "namaobj": "CANDI ARJUNA",
+        "srs_id": null,
+        "remark": "CANDI",
+        "wadmpr": "JAWA TENGAH",
+        "alamat": "DIENG KULON, BATUR",
+        "laman": "https://gis.dukcapil.kemendagri.go.id/"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  }
+}
