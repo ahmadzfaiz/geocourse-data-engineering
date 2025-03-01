@@ -1,0 +1,19 @@
+Results for FeatureType 'ADMIN:adm_jateng_bts_kabupaten_kota_250k_330020190617103125':
+--------------------------------------------
+wkb_geometry = [GEOMETRY (Polygon) with 278 points]
+fid_batas_ = 209
+a1code = 33.00000000000
+a2code = 3321.00000000000
+a2name = DEMAK
+a1name = JAWA TENGAH
+kode_bps = 3321
+fid_dakkab = 203
+dak_kprov = 33
+dak_nprov = JAWA TENGAH
+dak_kkab = 21
+dak_nkab = DEMAK
+dakk = 3321
+kode_dagri = 3321
+coba = 0
+zona = 3
+--------------------------------------------
