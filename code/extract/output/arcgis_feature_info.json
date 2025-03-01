@@ -1,0 +1,1077 @@
+{
+  "currentVersion": 10.81,
+  "id": 0,
+  "name": "Rencana Pola Ruang",
+  "type": "Feature Layer",
+  "description": "",
+  "geometryType": "esriGeometryPolygon",
+  "sourceSpatialReference": {
+    "wkid": 4326,
+    "latestWkid": 4326
+  },
+  "copyrightText": "",
+  "parentLayer": null,
+  "subLayers": [],
+  "minScale": 0,
+  "maxScale": 0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "uniqueValue",
+      "field1": "NAMOBJ",
+      "field2": null,
+      "field3": null,
+      "defaultSymbol": null,
+      "defaultLabel": null,
+      "uniqueValueInfos": [
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              151,
+              219,
+              242,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "width": 1
+            }
+          },
+          "value": "Badan Air",
+          "label": "Badan Air",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              235,
+              30,
+              30,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "width": 1
+            }
+          },
+          "value": "Badan Jalan",
+          "label": "Badan Jalan",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              35,
+              87,
+              35,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                104,
+                104,
+                104,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Hutan Lindung",
+          "label": "Hutan Lindung",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              199,
+              203,
+              162,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Instalasi Pengolahan Air Limbah (IPAL)",
+          "label": "Instalasi Pengolahan Air Limbah (IPAL)",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              229,
+              244,
+              213,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Pemakaman",
+          "label": "Pemakaman",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              255,
+              128,
+              128,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Perdagangan dan Jasa Skala BWP",
+          "label": "Perdagangan dan Jasa Skala BWP",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              255,
+              102,
+              102,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Perdagangan dan Jasa Skala Kota",
+          "label": "Perdagangan dan Jasa Skala Kota",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              255,
+              153,
+              153,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Perdagangan dan Jasa Skala Sub BWP",
+          "label": "Perdagangan dan Jasa Skala Sub BWP",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              199,
+              203,
+              162,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Pergudangan",
+          "label": "Pergudangan",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              200,
+              20,
+              150,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Perkantoran",
+          "label": "Perkantoran",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              122,
+              183,
+              77,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Perkebunan",
+          "label": "Perkebunan",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              155,
+              0,
+              255,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "width": 1
+            }
+          },
+          "value": "Pertahanan dan Keamanan",
+          "label": "Pertahanan dan Keamanan",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              225,
+              225,
+              225,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Ruang Terbuka Non Hijau",
+          "label": "Ruang Terbuka Non Hijau",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              255,
+              255,
+              191,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                104,
+                104,
+                104,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Rumah Kepadatan Rendah",
+          "label": "Rumah Kepadatan Rendah",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              255,
+              255,
+              153,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Rumah Kepadatan Sedang",
+          "label": "Rumah Kepadatan Sedang",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              255,
+              255,
+              115,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Rumah Kepadatan Tinggi",
+          "label": "Rumah Kepadatan Tinggi",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              230,
+              0,
+              169,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "SPU Skala Kecamatan",
+          "label": "SPU Skala Kecamatan",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              168,
+              0,
+              132,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "SPU Skala Kota",
+          "label": "SPU Skala Kota",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              184,
+              255,
+              199,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                104,
+                104,
+                104,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Sekitar Danau Atau Waduk",
+          "label": "Sekitar Danau Atau Waduk",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              194,
+              255,
+              204,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                104,
+                104,
+                104,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Sempadan Sungai",
+          "label": "Sempadan Sungai",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              214,
+              220,
+              229,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Sentra Industri Kecil Menengah",
+          "label": "Sentra Industri Kecil Menengah",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              141,
+              255,
+              7,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                104,
+                104,
+                104,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Taman Kecamatan",
+          "label": "Taman Kecamatan",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              166,
+              255,
+              61,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Taman Kelurahan",
+          "label": "Taman Kelurahan",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              114,
+              220,
+              0,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                104,
+                104,
+                104,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Taman Kota",
+          "label": "Taman Kota",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              180,
+              237,
+              142,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Tanaman Pangan",
+          "label": "Tanaman Pangan",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              215,
+              55,
+              0,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "width": 1
+            }
+          },
+          "value": "Transportasi",
+          "label": "Transportasi",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriSFS",
+            "style": "esriSFSSolid",
+            "color": [
+              255,
+              230,
+              255,
+              255
+            ],
+            "outline": {
+              "type": "esriSLS",
+              "style": "esriSLSSolid",
+              "color": [
+                110,
+                110,
+                110,
+                255
+              ],
+              "width": 0.4
+            }
+          },
+          "value": "Wisata Alam",
+          "label": "Wisata Alam",
+          "description": ""
+        }
+      ],
+      "fieldDelimiter": ","
+    },
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": true,
+  "extent": {
+    "xmin": 96.81969691300009,
+    "ymin": 4.60653409400004,
+    "xmax": 96.86806468900005,
+    "ymax": 4.656468440000026,
+    "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326,
+      "vcsWkid": 105790,
+      "latestVcsWkid": 3855
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "NAMOBJ",
+  "typeIdField": null,
+  "subtypeFieldName": null,
+  "subtypeField": null,
+  "defaultSubtypeCode": null,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    },
+    {
+      "name": "NAMOBJ",
+      "type": "esriFieldTypeString",
+      "alias": "Nama Objek",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "NAMZON",
+      "type": "esriFieldTypeString",
+      "alias": "Nama Zona",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "KODZON",
+      "type": "esriFieldTypeString",
+      "alias": "Kode Zona",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "NAMSZN",
+      "type": "esriFieldTypeString",
+      "alias": "Nama Sub-Zona",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "KODSZN",
+      "type": "esriFieldTypeString",
+      "alias": "Kode Sub-Zona",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "JNSRPR",
+      "type": "esriFieldTypeString",
+      "alias": "Jenis Rencana Pola Ruang",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "KODEWP",
+      "type": "esriFieldTypeString",
+      "alias": "Kode WP",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "KODSWP",
+      "type": "esriFieldTypeString",
+      "alias": "Kode SWP",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "KODBLK",
+      "type": "esriFieldTypeString",
+      "alias": "Kode Blok",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "KODSBL",
+      "type": "esriFieldTypeString",
+      "alias": "Kode Sub-Blok",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "WADMPR",
+      "type": "esriFieldTypeString",
+      "alias": "Wilayah Administrasi Provinsi",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "WADMKK",
+      "type": "esriFieldTypeString",
+      "alias": "Wilayah Administrasi Kabupaten/Kota",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "WADMKC",
+      "type": "esriFieldTypeString",
+      "alias": "Wilayah Administrasi Kecamatan",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "WADMKD",
+      "type": "esriFieldTypeString",
+      "alias": "Wilayah Administrasi Kelurahan/Desa",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "KKOP_1",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Keselamatan Operasi Penerbangan",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "LP2B_2",
+      "type": "esriFieldTypeString",
+      "alias": "Lahan Pertanian Pangan Berkelanjutan",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "KRB_03",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Rawan Bencana",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "TOD_04",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Berorientasi Transit",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "TEB_05",
+      "type": "esriFieldTypeString",
+      "alias": "Tempat Evakuasi Bencana",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "PUSLIT",
+      "type": "esriFieldTypeString",
+      "alias": "Pusat Penelitian",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "CAGBUD",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Cagar Budaya",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "RESAIR",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Resapan Air",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "KSMPDN",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Sempadan",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "HANKAM",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Pertahanan dan Keamanan",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "KKARST",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Karst",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "PTBGMB",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Pertambangan Mineral dan Batubara",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "MGRSAT",
+      "type": "esriFieldTypeString",
+      "alias": "Kawasan Migrasi Satwa",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "RDBUMI",
+      "type": "esriFieldTypeString",
+      "alias": "Ruang Dalam Bumi",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "TPZ_00",
+      "type": "esriFieldTypeString",
+      "alias": "Teknik Pengaturan Zonasi",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "REMARK",
+      "type": "esriFieldTypeString",
+      "alias": "Catatan",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "PP",
+      "type": "esriFieldTypeString",
+      "alias": "Dokumen Peta Perda",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "BA",
+      "type": "esriFieldTypeString",
+      "alias": "Dokumen Berita Acara",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "CT",
+      "type": "esriFieldTypeString",
+      "alias": "Dokumen Verifikasi",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "BT",
+      "type": "esriFieldTypeString",
+      "alias": "Dokumen Batang Tubuh",
+      "length": 250,
+      "domain": null
+    },
+    {
+      "name": "NOTHPR",
+      "type": "esriFieldTypeString",
+      "alias": "Nomor dan Tahun Peraturan",
+      "length": 3000,
+      "domain": null
+    },
+    {
+      "name": "SHAPE_Length",
+      "type": "esriFieldTypeDouble",
+      "alias": "SHAPE_Length",
+      "domain": null
+    },
+    {
+      "name": "SHAPE_Area",
+      "type": "esriFieldTypeDouble",
+      "alias": "SHAPE_Area",
+      "domain": null
+    }
+  ],
+  "geometryField": {
+    "name": "SHAPE",
+    "type": "esriFieldTypeGeometry",
+    "alias": "SHAPE"
+  },
+  "indexes": [
+    {
+      "name": "FDO_OBJECTID",
+      "fields": "OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "FDO_SHAPE",
+      "fields": "SHAPE",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    }
+  ],
+  "subtypes": [],
+  "relationships": [],
+  "canModifyLayer": true,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 1000,
+  "supportsStatistics": true,
+  "supportsAdvancedQueries": true,
+  "supportedQueryFormats": "JSON, geoJSON",
+  "isDataVersioned": false,
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsHavingClause": true,
+    "supportsCountDistinct": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsPagination": true,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true,
+    "supportsSqlExpression": true
+  },
+  "supportsDatumTransformation": true,
+  "supportsCoordinatesQuantization": true,
+  "serviceItemId": "485a74bb05524fe1af7bcdce2dde2e85"
+}

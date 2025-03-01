@@ -1,0 +1,77 @@
+{
+  "currentVersion": 10.81,
+  "serviceDescription": "RDTR",
+  "mapName": "Layers",
+  "description": "",
+  "copyrightText": "",
+  "supportsDynamicLayers": true,
+  "layers": [
+    {
+      "id": 0,
+      "name": "Rencana Pola Ruang",
+      "parentLayerId": -1,
+      "defaultVisibility": true,
+      "subLayerIds": null,
+      "minScale": 0,
+      "maxScale": 0,
+      "type": "Feature Layer",
+      "geometryType": "esriGeometryPolygon"
+    }
+  ],
+  "tables": [],
+  "spatialReference": {
+    "wkid": 4326,
+    "latestWkid": 4326,
+    "vcsWkid": 105790,
+    "latestVcsWkid": 3855
+  },
+  "singleFusedMapCache": false,
+  "initialExtent": {
+    "xmin": 96.8170534909387,
+    "ymin": 4.631955967170534,
+    "xmax": 96.8725269117434,
+    "ymax": 4.659237977402348,
+    "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326,
+      "vcsWkid": 105790,
+      "latestVcsWkid": 3855
+    }
+  },
+  "fullExtent": {
+    "xmin": 96.81969691300009,
+    "ymin": 4.60653409400004,
+    "xmax": 96.86806468900005,
+    "ymax": 4.656468440000026,
+    "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326,
+      "vcsWkid": 105790,
+      "latestVcsWkid": 3855
+    }
+  },
+  "minScale": 0,
+  "maxScale": 0,
+  "units": "esriDecimalDegrees",
+  "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
+  "documentInfo": {
+    "Title": "",
+    "Author": "",
+    "Comments": "",
+    "Subject": "",
+    "Category": "",
+    "AntialiasingMode": "None",
+    "TextAntialiasingMode": "Force",
+    "Keywords": "RDTR"
+  },
+  "capabilities": "Map,Query,Data",
+  "supportedQueryFormats": "JSON, geoJSON",
+  "exportTilesAllowed": false,
+  "referenceScale": 0,
+  "supportsDatumTransformation": true,
+  "maxRecordCount": 1000,
+  "maxImageHeight": 4096,
+  "maxImageWidth": 4096,
+  "supportedExtensions": "WMSServer",
+  "serviceItemId": "485a74bb05524fe1af7bcdce2dde2e85"
+}
