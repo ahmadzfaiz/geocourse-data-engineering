@@ -1,28 +1,72 @@
 {
   "data": [
     {
+      "text": "Kota Makassar (\u1a00\u1a1a\u1a08 \u1a06\u1a00\u1a14\u1a11) sebelumnya bernama Ujung Pandang, adalah ibu kota provinsi Sulawesi Selatan, Indonesia.\n\n#FaizGeotag\n\nhttps://t.co/i9D72lPthV",
+      "edit_history_tweet_ids": [
+        "1896153702140088593"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1859072685105705311"
+        },
+        {
+          "type": "replied_to",
+          "id": "1894706768649023792"
+        }
+      ],
+      "author_id": "475862742",
       "geo": {
-        "place_id": "1d4c6ad315aabd84"
+        "place_id": "ec6afdae43138dcd"
       },
-      "created_at": "2025-02-26T11:14:37.000Z",
-      "text": "Prambanan\u00a0is a 9th-century\u00a0Hindu\u00a0temple\u00a0compound in the\u00a0Special Region of Yogyakarta, in southern\u00a0Java,\u00a0Indonesia, dedicated to the\u00a0Trim\u016brti, the expression of God as the Creator (Brahma), the Preserver (Vishnu) and the Destroyer (Shiva).\n\n#FaizGeotag https://t.co/XMj0jEazKN",
+      "lang": "in",
+      "id": "1896153702140088593",
       "entities": {
         "urls": [
           {
-            "start": 252,
-            "end": 275,
-            "url": "https://t.co/XMj0jEazKN",
-            "expanded_url": "https://twitter.com/zaenun_faiz/status/1587346563805822983",
+            "start": 127,
+            "end": 150,
+            "url": "https://t.co/i9D72lPthV",
+            "expanded_url": "https://x.com/zaenun_faiz/status/1859072685105705311",
             "display_url": "x.com/zaenun_faiz/st\u2026"
           }
         ],
         "hashtags": [
           {
-            "start": 240,
-            "end": 251,
+            "start": 114,
+            "end": 125,
             "tag": "FaizGeotag"
           }
-        ],
+        ]
+      },
+      "in_reply_to_user_id": "475862742",
+      "created_at": "2025-03-02T11:00:46.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 6
+      },
+      "possibly_sensitive": false
+    },
+    {
+      "text": "Prambanan\u00a0is a 9th-century\u00a0Hindu\u00a0temple\u00a0compound in the\u00a0Special Region of Yogyakarta, in southern\u00a0Java,\u00a0Indonesia, dedicated to the\u00a0Trim\u016brti, the expression of God as the Creator (Brahma), the Preserver (Vishnu) and the Destroyer (Shiva).\n\n#FaizGeotag https://t.co/XMj0jEazKN",
+      "edit_history_tweet_ids": [
+        "1894707636278628411"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1587346563805822983"
+        }
+      ],
+      "author_id": "475862742",
+      "geo": {
+        "place_id": "1d4c6ad315aabd84"
+      },
+      "entities": {
         "annotations": [
           {
             "start": 74,
@@ -38,59 +82,52 @@
             "type": "Person",
             "normalized_text": "Shiva"
           }
+        ],
+        "urls": [
+          {
+            "start": 252,
+            "end": 275,
+            "url": "https://t.co/XMj0jEazKN",
+            "expanded_url": "https://twitter.com/zaenun_faiz/status/1587346563805822983",
+            "display_url": "x.com/zaenun_faiz/st\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 240,
+            "end": 251,
+            "tag": "FaizGeotag"
+          }
         ]
       },
+      "lang": "en",
+      "id": "1894707636278628411",
+      "created_at": "2025-02-26T11:14:37.000Z",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
-        "like_count": 1,
+        "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 58
+        "impression_count": 84
       },
-      "possibly_sensitive": false,
-      "author_id": "475862742",
-      "referenced_tweets": [
-        {
-          "type": "quoted",
-          "id": "1587346563805822983"
-        }
-      ],
-      "edit_history_tweet_ids": [
-        "1894707636278628411"
-      ],
-      "lang": "en",
-      "id": "1894707636278628411"
+      "possibly_sensitive": false
     },
     {
-      "geo": {
-        "place_id": "36cb70a6b6dc142a"
-      },
-      "created_at": "2025-02-26T11:11:10.000Z",
+      "text": "Borobudur is a 9th-century\u00a0Mahayana\u00a0Buddhist temple\u00a0in\u00a0Magelang Regency, near the city of\u00a0Magelang\u00a0and the town of\u00a0Muntilan, in\u00a0Central Java, Indonesia.\n\n#FaizGeotag https://t.co/RqpYA8ZSQI",
+      "edit_history_tweet_ids": [
+        "1894706768649023792"
+      ],
       "attachments": {
         "media_keys": [
           "3_1894706765788479488"
         ]
       },
-      "text": "Borobudur is a 9th-century\u00a0Mahayana\u00a0Buddhist temple\u00a0in\u00a0Magelang Regency, near the city of\u00a0Magelang\u00a0and the town of\u00a0Muntilan, in\u00a0Central Java, Indonesia.\n\n#FaizGeotag https://t.co/RqpYA8ZSQI",
+      "author_id": "475862742",
+      "geo": {
+        "place_id": "36cb70a6b6dc142a"
+      },
       "entities": {
-        "urls": [
-          {
-            "start": 166,
-            "end": 189,
-            "url": "https://t.co/RqpYA8ZSQI",
-            "expanded_url": "https://x.com/zaenun_faiz/status/1894706768649023792/photo/1",
-            "display_url": "pic.x.com/RqpYA8ZSQI",
-            "media_key": "3_1894706765788479488"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 154,
-            "end": 165,
-            "tag": "FaizGeotag"
-          }
-        ],
         "annotations": [
           {
             "start": 0,
@@ -113,34 +150,65 @@
             "type": "Place",
             "normalized_text": "FaizGeotag"
           }
+        ],
+        "urls": [
+          {
+            "start": 166,
+            "end": 189,
+            "url": "https://t.co/RqpYA8ZSQI",
+            "expanded_url": "https://x.com/zaenun_faiz/status/1894706768649023792/photo/1",
+            "display_url": "pic.x.com/RqpYA8ZSQI",
+            "media_key": "3_1894706765788479488"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 154,
+            "end": 165,
+            "tag": "FaizGeotag"
+          }
         ]
       },
+      "lang": "en",
+      "id": "1894706768649023792",
+      "created_at": "2025-02-26T11:11:10.000Z",
       "public_metrics": {
         "retweet_count": 0,
-        "reply_count": 0,
+        "reply_count": 1,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 24
+        "impression_count": 52
       },
-      "possibly_sensitive": false,
-      "author_id": "475862742",
-      "edit_history_tweet_ids": [
-        "1894706768649023792"
-      ],
-      "lang": "en",
-      "id": "1894706768649023792"
+      "possibly_sensitive": false
     }
   ],
   "includes": {
     "places": [
       {
-        "country_code": "ID",
-        "full_name": "Prambanan, Indonesia",
+        "place_type": "city",
+        "id": "ec6afdae43138dcd",
+        "name": "Makasar",
+        "full_name": "Makasar, Indonesia",
         "country": "Indonesia",
+        "geo": {
+          "type": "Feature",
+          "bbox": [
+            106.882369,
+            -6.303373,
+            106.935071,
+            -6.241646
+          ],
+          "properties": {}
+        },
+        "country_code": "ID"
+      },
+      {
+        "place_type": "city",
         "id": "1d4c6ad315aabd84",
         "name": "Prambanan",
-        "place_type": "city",
+        "full_name": "Prambanan, Indonesia",
+        "country": "Indonesia",
         "geo": {
           "type": "Feature",
           "bbox": [
@@ -150,15 +218,15 @@
             -7.71145
           ],
           "properties": {}
-        }
+        },
+        "country_code": "ID"
       },
       {
-        "country_code": "ID",
-        "full_name": "Borobudur, Indonesia",
-        "country": "Indonesia",
+        "place_type": "city",
         "id": "36cb70a6b6dc142a",
         "name": "Borobudur",
-        "place_type": "city",
+        "full_name": "Borobudur, Indonesia",
+        "country": "Indonesia",
         "geo": {
           "type": "Feature",
           "bbox": [
@@ -168,36 +236,194 @@
             -7.572139
           ],
           "properties": {}
-        }
+        },
+        "country_code": "ID"
       }
     ],
     "tweets": [
       {
-        "created_at": "2022-11-01T07:31:26.000Z",
+        "text": "#30DayMapChallenge 2024 Day 20: @openstreetmap \n\nToday, I downloaded OSM data around Makassar. Makassar is the capital of the Indonesian province of South Sulawesi. It is the largest city in the region of Eastern Indonesia and the country's fifth-largest urban center. https://t.co/pvMShkKQmh",
+        "edit_history_tweet_ids": [
+          "1859072685105705311"
+        ],
+        "attachments": {
+          "media_keys": [
+            "3_1859072599365746688"
+          ]
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1858811403215532075"
+          }
+        ],
+        "author_id": "475862742",
+        "entities": {
+          "annotations": [
+            {
+              "start": 69,
+              "end": 71,
+              "probability": 0.4103,
+              "type": "Organization",
+              "normalized_text": "OSM"
+            },
+            {
+              "start": 85,
+              "end": 92,
+              "probability": 0.9311,
+              "type": "Place",
+              "normalized_text": "Makassar"
+            },
+            {
+              "start": 95,
+              "end": 102,
+              "probability": 0.9364,
+              "type": "Place",
+              "normalized_text": "Makassar"
+            },
+            {
+              "start": 126,
+              "end": 135,
+              "probability": 0.4877,
+              "type": "Place",
+              "normalized_text": "Indonesian"
+            },
+            {
+              "start": 149,
+              "end": 162,
+              "probability": 0.8593,
+              "type": "Place",
+              "normalized_text": "South Sulawesi"
+            },
+            {
+              "start": 205,
+              "end": 221,
+              "probability": 0.5412,
+              "type": "Place",
+              "normalized_text": "Eastern Indonesia"
+            }
+          ],
+          "urls": [
+            {
+              "start": 269,
+              "end": 292,
+              "url": "https://t.co/pvMShkKQmh",
+              "expanded_url": "https://x.com/zaenun_faiz/status/1859072685105705311/photo/1",
+              "display_url": "pic.x.com/pvMShkKQmh",
+              "media_key": "3_1859072599365746688"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 0,
+              "end": 18,
+              "tag": "30DayMapChallenge"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 32,
+              "end": 46,
+              "username": "openstreetmap",
+              "id": "17925320"
+            }
+          ]
+        },
+        "lang": "en",
+        "id": "1859072685105705311",
+        "in_reply_to_user_id": "475862742",
+        "created_at": "2024-11-20T03:14:02.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "bookmark_count": 0,
+          "impression_count": 86
+        },
+        "possibly_sensitive": false
+      },
+      {
+        "text": "Borobudur is a 9th-century\u00a0Mahayana\u00a0Buddhist temple\u00a0in\u00a0Magelang Regency, near the city of\u00a0Magelang\u00a0and the town of\u00a0Muntilan, in\u00a0Central Java, Indonesia.\n\n#FaizGeotag https://t.co/RqpYA8ZSQI",
+        "edit_history_tweet_ids": [
+          "1894706768649023792"
+        ],
+        "attachments": {
+          "media_keys": [
+            "3_1894706765788479488"
+          ]
+        },
+        "author_id": "475862742",
+        "geo": {
+          "place_id": "36cb70a6b6dc142a"
+        },
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 8,
+              "probability": 0.8792,
+              "type": "Place",
+              "normalized_text": "Borobudur"
+            },
+            {
+              "start": 142,
+              "end": 150,
+              "probability": 0.9181,
+              "type": "Place",
+              "normalized_text": "Indonesia"
+            },
+            {
+              "start": 155,
+              "end": 164,
+              "probability": 0.6357,
+              "type": "Place",
+              "normalized_text": "FaizGeotag"
+            }
+          ],
+          "urls": [
+            {
+              "start": 166,
+              "end": 189,
+              "url": "https://t.co/RqpYA8ZSQI",
+              "expanded_url": "https://x.com/zaenun_faiz/status/1894706768649023792/photo/1",
+              "display_url": "pic.x.com/RqpYA8ZSQI",
+              "media_key": "3_1894706765788479488"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 154,
+              "end": 165,
+              "tag": "FaizGeotag"
+            }
+          ]
+        },
+        "lang": "en",
+        "id": "1894706768649023792",
+        "created_at": "2025-02-26T11:11:10.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 52
+        },
+        "possibly_sensitive": false
+      },
+      {
+        "text": "Day 1 of #30DayMapChallenge | Points\n\nThis is a map of cultural heritage locations around Prambanan Temple Compounds in Kewu Plain. Historically the area was identified as Mataram. The region was the center of the Medang i Bhumi Mataram kingdom in the 8th to 10th centuries. https://t.co/deYQwTuc8N",
+        "edit_history_tweet_ids": [
+          "1587346563805822983"
+        ],
         "attachments": {
           "media_keys": [
             "3_1587344932313833475"
           ]
         },
-        "text": "Day 1 of #30DayMapChallenge | Points\n\nThis is a map of cultural heritage locations around Prambanan Temple Compounds in Kewu Plain. Historically the area was identified as Mataram. The region was the center of the Medang i Bhumi Mataram kingdom in the 8th to 10th centuries. https://t.co/deYQwTuc8N",
+        "author_id": "475862742",
         "entities": {
-          "urls": [
-            {
-              "start": 275,
-              "end": 298,
-              "url": "https://t.co/deYQwTuc8N",
-              "expanded_url": "https://x.com/zaenun_faiz/status/1587346563805822983/photo/1",
-              "display_url": "pic.x.com/deYQwTuc8N",
-              "media_key": "3_1587344932313833475"
-            }
-          ],
-          "hashtags": [
-            {
-              "start": 9,
-              "end": 27,
-              "tag": "30DayMapChallenge"
-            }
-          ],
           "annotations": [
             {
               "start": 90,
@@ -227,8 +453,28 @@
               "type": "Other",
               "normalized_text": "Medang i Bhumi Mataram kingdom"
             }
+          ],
+          "urls": [
+            {
+              "start": 275,
+              "end": 298,
+              "url": "https://t.co/deYQwTuc8N",
+              "expanded_url": "https://x.com/zaenun_faiz/status/1587346563805822983/photo/1",
+              "display_url": "pic.x.com/deYQwTuc8N",
+              "media_key": "3_1587344932313833475"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 9,
+              "end": 27,
+              "tag": "30DayMapChallenge"
+            }
           ]
         },
+        "lang": "en",
+        "id": "1587346563805822983",
+        "created_at": "2022-11-01T07:31:26.000Z",
         "public_metrics": {
           "retweet_count": 1,
           "reply_count": 1,
@@ -237,19 +483,13 @@
           "bookmark_count": 1,
           "impression_count": 0
         },
-        "possibly_sensitive": false,
-        "author_id": "475862742",
-        "edit_history_tweet_ids": [
-          "1587346563805822983"
-        ],
-        "lang": "en",
-        "id": "1587346563805822983"
+        "possibly_sensitive": false
       }
     ]
   },
   "meta": {
-    "newest_id": "1894707636278628411",
+    "newest_id": "1896153702140088593",
     "oldest_id": "1894706768649023792",
-    "result_count": 2
+    "result_count": 3
   }
 }
