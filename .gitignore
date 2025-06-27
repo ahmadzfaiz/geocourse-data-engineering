@@ -130,6 +130,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv-12
 env/
 venv/
 ENV/
@@ -172,3 +173,4 @@ cython_debug/
 
 # Remove .DS_Store
 .DS_Store
+logs/
