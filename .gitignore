@@ -174,3 +174,4 @@ cython_debug/
 # Remove .DS_Store
 .DS_Store
 logs/
+airflow.cfg

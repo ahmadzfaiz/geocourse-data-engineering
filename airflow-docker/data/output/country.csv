@@ -1,0 +1,259 @@
+,name,subregion,population,population_year
+0,Indonesia,South-Eastern Asia,270625568.0,2019
+1,Malaysia,South-Eastern Asia,31949777.0,2019
+2,Chile,South America,18952038.0,2019
+3,Bolivia,South America,11513100.0,2019
+4,Peru,South America,32510453.0,2019
+5,Argentina,South America,44938712.0,2019
+6,Dhekelia,Western Asia,7850.0,2013
+7,Cyprus,Western Asia,1198575.0,2019
+8,India,Southern Asia,1366417754.0,2019
+9,China,Eastern Asia,1397715000.0,2019
+10,Israel,Western Asia,9053300.0,2019
+11,Palestine,Western Asia,4685306.0,2019
+12,Lebanon,Western Asia,6855713.0,2019
+13,Ethiopia,Eastern Africa,112078730.0,2019
+14,S. Sudan,Eastern Africa,11062113.0,2019
+15,Somalia,Eastern Africa,10192317.3,2019
+16,Kenya,Eastern Africa,52573973.0,2019
+17,Malawi,Eastern Africa,18628747.0,2019
+18,Tanzania,Eastern Africa,58005463.0,2019
+19,Syria,Western Asia,17070135.0,2019
+20,Somaliland,Eastern Africa,5096159.0,2014
+21,France,Western Europe,67059887.0,2019
+22,Suriname,South America,581363.0,2019
+23,Guyana,South America,782766.0,2019
+24,South Korea,Eastern Asia,51709098.0,2019
+25,North Korea,Eastern Asia,25666161.0,2019
+26,Morocco,Northern Africa,36471769.0,2019
+27,W. Sahara,Northern Africa,603253.0,2017
+28,Costa Rica,Central America,5047561.0,2019
+29,Nicaragua,Central America,6545502.0,2019
+30,Congo,Middle Africa,5380508.0,2019
+31,Dem. Rep. Congo,Middle Africa,86790567.0,2019
+32,Bhutan,Southern Asia,763092.0,2019
+33,Ukraine,Eastern Europe,44385155.0,2019
+34,Belarus,Eastern Europe,9466856.0,2019
+35,Namibia,Southern Africa,2494530.0,2019
+36,South Africa,Southern Africa,58558270.0,2019
+37,St-Martin,Caribbean,38002.0,2019
+38,Sint Maarten,Caribbean,40733.0,2019
+39,Oman,Western Asia,4974986.0,2019
+40,Uzbekistan,Central Asia,33580650.0,2019
+41,Kazakhstan,Central Asia,18513930.0,2019
+42,Tajikistan,Central Asia,9321018.0,2019
+43,Lithuania,Northern Europe,2786844.0,2019
+44,Brazil,South America,211049527.0,2019
+45,Uruguay,South America,3461734.0,2019
+46,Mongolia,Eastern Asia,3225167.0,2019
+47,Russia,Eastern Europe,144373535.0,2019
+48,Czechia,Eastern Europe,10669709.0,2019
+49,Germany,Western Europe,83132799.0,2019
+50,Estonia,Northern Europe,1326590.0,2019
+51,Latvia,Northern Europe,1912789.0,2019
+52,Norway,Northern Europe,5347896.0,2019
+53,Sweden,Northern Europe,10285453.0,2019
+54,Finland,Northern Europe,5520314.0,2019
+55,Vietnam,South-Eastern Asia,96462106.0,2019
+56,Cambodia,South-Eastern Asia,16486542.0,2019
+57,Luxembourg,Western Europe,619896.0,2019
+58,United Arab Emirates,Western Asia,9770529.0,2019
+59,Belgium,Western Europe,11484055.0,2019
+60,Georgia,Western Asia,3720382.0,2019
+61,North Macedonia,Southern Europe,2083459.0,2019
+62,Albania,Southern Europe,2854191.0,2019
+63,Azerbaijan,Western Asia,10023318.0,2019
+64,Kosovo,Southern Europe,1794248.0,2019
+65,Turkey,Western Asia,83429615.0,2019
+66,Spain,Southern Europe,47076781.0,2019
+67,Laos,South-Eastern Asia,7169455.0,2019
+68,Kyrgyzstan,Central Asia,6456900.0,2019
+69,Armenia,Western Asia,2957731.0,2019
+70,Denmark,Northern Europe,5818553.0,2019
+71,Libya,Northern Africa,6777452.0,2019
+72,Tunisia,Northern Africa,11694719.0,2019
+73,Romania,Eastern Europe,19356544.0,2019
+74,Hungary,Eastern Europe,9769949.0,2019
+75,Slovakia,Eastern Europe,5454073.0,2019
+76,Poland,Eastern Europe,37970874.0,2019
+77,Ireland,Northern Europe,4941444.0,2019
+78,United Kingdom,Northern Europe,66834405.0,2019
+79,Greece,Southern Europe,10716322.0,2019
+80,Zambia,Eastern Africa,17861030.0,2019
+81,Sierra Leone,Western Africa,7813215.0,2019
+82,Guinea,Western Africa,12771246.0,2019
+83,Liberia,Western Africa,4937374.0,2019
+84,Central African Rep.,Middle Africa,4745185.0,2019
+85,Sudan,Northern Africa,42813238.0,2019
+86,Djibouti,Eastern Africa,973560.0,2019
+87,Eritrea,Eastern Africa,6081196.0,2020
+88,Austria,Western Europe,8877067.0,2019
+89,Iraq,Western Asia,39309783.0,2019
+90,Italy,Southern Europe,60297396.0,2019
+91,Switzerland,Western Europe,8574832.0,2019
+92,Iran,Southern Asia,82913906.0,2019
+93,Netherlands,Western Europe,17332850.0,2019
+94,Liechtenstein,Western Europe,38019.0,2019
+95,Côte d'Ivoire,Western Africa,25716544.0,2019
+96,Serbia,Southern Europe,6944975.0,2019
+97,Mali,Western Africa,19658031.0,2019
+98,Senegal,Western Africa,16296364.0,2019
+99,Nigeria,Western Africa,200963599.0,2019
+100,Benin,Western Africa,11801151.0,2019
+101,Angola,Middle Africa,31825295.0,2019
+102,Croatia,Southern Europe,4067500.0,2019
+103,Slovenia,Southern Europe,2087946.0,2019
+104,Qatar,Western Asia,2832067.0,2019
+105,Saudi Arabia,Western Asia,34268528.0,2019
+106,Botswana,Southern Africa,2303697.0,2019
+107,Zimbabwe,Eastern Africa,14645468.0,2019
+108,Pakistan,Southern Asia,216565318.0,2019
+109,Bulgaria,Eastern Europe,6975761.0,2019
+110,Thailand,South-Eastern Asia,69625582.0,2019
+111,San Marino,Southern Europe,33860.0,2019
+112,Haiti,Caribbean,11263077.0,2019
+113,Dominican Rep.,Caribbean,10738958.0,2019
+114,Chad,Middle Africa,15946876.0,2019
+115,Kuwait,Western Asia,4207083.0,2019
+116,El Salvador,Central America,6453553.0,2019
+117,Guatemala,Central America,16604026.0,2019
+118,Timor-Leste,South-Eastern Asia,1293119.0,2019
+119,Brunei,South-Eastern Asia,433285.0,2019
+120,Monaco,Western Europe,38964.0,2019
+121,Algeria,Northern Africa,43053054.0,2019
+122,Mozambique,Eastern Africa,30366036.0,2019
+123,eSwatini,Southern Africa,1148130.0,2019
+124,Burundi,Eastern Africa,11530580.0,2019
+125,Rwanda,Eastern Africa,12626950.0,2019
+126,Myanmar,South-Eastern Asia,54045420.0,2019
+127,Bangladesh,Southern Asia,163046161.0,2019
+128,Andorra,Southern Europe,77142.0,2019
+129,Afghanistan,Southern Asia,38041754.0,2019
+130,Montenegro,Southern Europe,622137.0,2019
+131,Bosnia and Herz.,Southern Europe,3301000.0,2019
+132,Uganda,Eastern Africa,44269594.0,2019
+133,USNB Guantanamo Bay,Caribbean,6000.0,2018
+134,Cuba,Caribbean,11333483.0,2019
+135,Honduras,Central America,9746117.0,2019
+136,Ecuador,South America,17373662.0,2019
+137,Colombia,South America,50339443.0,2019
+138,Paraguay,South America,7044636.0,2019
+139,Brazilian I.,South America,0.0,2019
+140,Portugal,Southern Europe,10269417.0,2019
+141,Moldova,Eastern Europe,2657637.0,2019
+142,Turkmenistan,Central Asia,5942089.0,2019
+143,Jordan,Western Asia,10101694.0,2019
+144,Nepal,Southern Asia,28608710.0,2019
+145,Lesotho,Southern Africa,2125268.0,2019
+146,Cameroon,Middle Africa,25876380.0,2019
+147,Gabon,Middle Africa,2172579.0,2019
+148,Niger,Western Africa,23310715.0,2019
+149,Burkina Faso,Western Africa,20321378.0,2019
+150,Togo,Western Africa,8082366.0,2019
+151,Ghana,Western Africa,30417856.0,2019
+152,Guinea-Bissau,Western Africa,1920922.0,2019
+153,Gibraltar,Southern Europe,33701.0,2019
+154,United States of America,Northern America,328239523.0,2019
+155,Canada,Northern America,37589262.0,2019
+156,Mexico,Central America,127575529.0,2019
+157,Belize,Central America,390353.0,2019
+158,Panama,Central America,4246439.0,2019
+159,Venezuela,South America,28515829.0,2019
+160,Papua New Guinea,Melanesia,8776109.0,2019
+161,Egypt,Northern Africa,100388073.0,2019
+162,Yemen,Western Asia,29161922.0,2019
+163,Mauritania,Western Africa,4525696.0,2019
+164,Eq. Guinea,Middle Africa,1355986.0,2019
+165,Gambia,Western Africa,2347706.0,2019
+166,Hong Kong,Eastern Asia,7507400.0,2019
+167,Vatican,Southern Europe,825.0,2019
+168,N. Cyprus,Western Asia,326000.0,2017
+169,Cyprus U.N. Buffer Zone,Western Asia,10000.0,2019
+170,Siachen Glacier,Southern Asia,6000.0,2013
+171,Baikonur,Central Asia,36175.0,2009
+172,Akrotiri,Western Asia,7850.0,2017
+173,Southern Patagonian Ice Field,South America,0.0,2019
+174,Bir Tawil,Northern Africa,0.0,2019
+175,Antarctica,Antarctica,4490.0,2019
+176,Australia,Australia and New Zealand,25364307.0,2019
+177,Greenland,Northern America,56225.0,2019
+178,Fiji,Melanesia,889953.0,2019
+179,New Zealand,Australia and New Zealand,4917000.0,2019
+180,New Caledonia,Melanesia,287800.0,2019
+181,Madagascar,Eastern Africa,26969307.0,2019
+182,Philippines,South-Eastern Asia,108116615.0,2019
+183,Sri Lanka,Southern Asia,21803000.0,2019
+184,Curaçao,Caribbean,157538.0,2019
+185,Aruba,Caribbean,106314.0,2019
+186,Bahamas,Caribbean,389482.0,2019
+187,Turks and Caicos Is.,Caribbean,38191.0,2019
+188,Taiwan,Eastern Asia,23568378.0,2020
+189,Japan,Eastern Asia,126264931.0,2019
+190,St. Pierre and Miquelon,Northern America,5997.0,2017
+191,Iceland,Northern Europe,361313.0,2019
+192,Pitcairn Is.,Polynesia,54.0,2016
+193,Fr. Polynesia,Polynesia,279287.0,2019
+194,Fr. S. Antarctic Lands,Seven seas (open ocean),140.0,2017
+195,Seychelles,Eastern Africa,97625.0,2019
+196,Kiribati,Micronesia,117606.0,2019
+197,Marshall Is.,Micronesia,58791.0,2019
+198,Trinidad and Tobago,Caribbean,1394973.0,2019
+199,Grenada,Caribbean,112003.0,2019
+200,St. Vin. and Gren.,Caribbean,110589.0,2019
+201,Barbados,Caribbean,287025.0,2019
+202,Saint Lucia,Caribbean,182790.0,2019
+203,Dominica,Caribbean,71808.0,2019
+204,U.S. Minor Outlying Is.,Seven seas (open ocean),300.0,2017
+205,Montserrat,Caribbean,4649.0,2019
+206,Antigua and Barb.,Caribbean,97118.0,2019
+207,St. Kitts and Nevis,Caribbean,52834.0,2019
+208,U.S. Virgin Is.,Caribbean,106631.0,2019
+209,St-Barthélemy,Caribbean,9961.0,2017
+210,Puerto Rico,Caribbean,3193694.0,2019
+211,Anguilla,Caribbean,14731.0,2018
+212,British Virgin Is.,Caribbean,30030.0,2019
+213,Jamaica,Caribbean,2948279.0,2019
+214,Cayman Is.,Caribbean,64948.0,2019
+215,Bermuda,Northern America,63918.0,2019
+216,Heard I. and McDonald Is.,Seven seas (open ocean),0.0,2019
+217,Saint Helena,Western Africa,4534.0,2016
+218,Mauritius,Eastern Africa,1265711.0,2019
+219,Comoros,Eastern Africa,850886.0,2019
+220,São Tomé and Principe,Middle Africa,215056.0,2019
+221,Cabo Verde,Western Africa,549935.0,2019
+222,Malta,Southern Europe,502653.0,2019
+223,Jersey,Northern Europe,107800.0,2019
+224,Guernsey,Northern Europe,62792.0,2019
+225,Isle of Man,Northern Europe,84584.0,2019
+226,Åland,Northern Europe,29884.0,2019
+227,Faeroe Is.,Northern Europe,48678.0,2019
+228,Indian Ocean Ter.,Seven seas (open ocean),2387.0,2016
+229,Br. Indian Ocean Ter.,Seven seas (open ocean),3000.0,2018
+230,Singapore,South-Eastern Asia,5703569.0,2019
+231,Norfolk Island,Australia and New Zealand,2169.0,2011
+232,Cook Is.,Polynesia,17459.0,2016
+233,Tonga,Polynesia,104494.0,2019
+234,Wallis and Futuna Is.,Polynesia,11558.0,2018
+235,Samoa,Polynesia,197097.0,2019
+236,Solomon Is.,Melanesia,669823.0,2019
+237,Tuvalu,Polynesia,11646.0,2019
+238,Maldives,Southern Asia,530953.0,2019
+239,Nauru,Micronesia,12581.0,2019
+240,Micronesia,Micronesia,113815.0,2019
+241,S. Geo. and the Is.,Seven seas (open ocean),30.0,2017
+242,Falkland Is.,South America,3398.0,2016
+243,Vanuatu,Melanesia,299882.0,2019
+244,Niue,Polynesia,1620.0,2018
+245,American Samoa,Polynesia,55312.0,2019
+246,Palau,Micronesia,18008.0,2019
+247,Guam,Micronesia,167294.0,2019
+248,N. Mariana Is.,Micronesia,57216.0,2019
+249,Bahrain,Western Asia,1641172.0,2019
+250,Coral Sea Is.,Australia and New Zealand,4.0,2019
+251,Spratly Is.,South-Eastern Asia,100.0,2017
+252,Clipperton I.,Central America,0.0,2019
+253,Macao,Eastern Asia,640445.0,2019
+254,Ashmore and Cartier Is.,Australia and New Zealand,0.0,2019
+255,Bajo Nuevo Bank,Caribbean,0.0,2019
+256,Serranilla Bank,Caribbean,0.0,2019
+257,Scarborough Reef,South-Eastern Asia,0.0,2019
